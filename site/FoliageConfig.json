@@ -1,0 +1,7 @@
+{
+	"baseUri" : "http://pabloTesone.github.io",
+	"webRootPrefix" : "/PabloTesone",
+	"blogs": [ 
+		"news" : "News"
+	]
+}
