@@ -1,6 +1,6 @@
 {
 	"baseUri" : "http://tesonep.github.io",
-	"webRootPrefix" : "/pabloTesone",
+	"webRootPrefix" : "",
 	"blogs": [ 
 		"news" : "News"
 	]
