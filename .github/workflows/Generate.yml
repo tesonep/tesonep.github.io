@@ -20,6 +20,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
+      - name: Merge Bibs
+        run: |
+           cat ./site/*.bib > ./site/db.bib
+
       - uses: pillar-markup/Foliage@master
         with:
           source: site

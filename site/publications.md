@@ -5,7 +5,7 @@
 	"pluginSpec" : [ 
 	#authorMatchingString : 'Tesone',
 	#keysOfBlackListedEntries : [ ],
-	#bibFilename : ['rmod.bib', 'bd.bib'] ] ],
+	#bibFilename : 'db.bib' ] ],
 "publishDate" : "2025-06-01"
 }
 
